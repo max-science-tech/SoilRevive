@@ -25,3 +25,4 @@
 - Added sample diagnosis test cases connecting symptoms, diagnosis, score, and remedies
 - Added MVP architecture document
 - Added UI flow describing the complete Phase 1 user journey
+- Added visual wireframe for the complete Phase 1 MVP flow
