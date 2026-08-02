@@ -1,0 +1,16 @@
+SOILREVIVE SYMPTOM CHECKER
+
+Questions:
+
+1. Are the leaves yellow?
+2. Are the leaves drooping?
+3. Is the soil very wet?
+4. Is there white or green fungus on the soil?
+5. Are the leaf edges turning brown?
+
+Possible Result:
+- Overwatering
+- Underwatering
+- Poor drainage
+- Fungal growth
+- Nutrient deficiency
