@@ -26,3 +26,4 @@
 - Added MVP architecture document
 - Added UI flow describing the complete Phase 1 user journey
 - Added visual wireframe for the complete Phase 1 MVP flow
+- Added first visual prototype screen combining input, diagnosis, score, and remedies
