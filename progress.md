@@ -11,3 +11,13 @@
 - Add symptom questions
 - Create watering advice logic
 - Test with real plants at home
+
+## 2 August 2026
+- Created GitHub repository
+- Added project introduction and roadmap
+- Added home screen plan
+- Added symptom checker
+- Added emergency home remedies
+- Added soil health research notes
+- Added research backlog for future investigation
+- Added the first diagnosis engine rules for SoilRevive
