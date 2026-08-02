@@ -23,3 +23,5 @@
 - Added the first diagnosis engine rules for SoilRevive
 - Added Soil Health Score calculation system
 - Added sample diagnosis test cases connecting symptoms, diagnosis, score, and remedies
+- Added MVP architecture document
+- Added UI flow describing the complete Phase 1 user journey
