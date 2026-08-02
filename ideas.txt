@@ -1,0 +1,10 @@
+Version 1
+- Choose plant type
+- Enter symptoms
+- Get watering advice
+- Show basic soil health tips
+
+Future Version
+- AI image detection
+- Sensor integration
+- Weather-based recommendations
