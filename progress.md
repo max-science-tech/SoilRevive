@@ -27,3 +27,4 @@
 - Added UI flow describing the complete Phase 1 user journey
 - Added visual wireframe for the complete Phase 1 MVP flow
 - Added first visual prototype screen combining input, diagnosis, score, and remedies
+- Added user simulation demonstrating the complete SoilRevive diagnosis and recovery flow
