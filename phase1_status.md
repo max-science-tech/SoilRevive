@@ -30,3 +30,6 @@
 ### Notes
 
 The project currently has a strong documentation and research foundation. The next focus should be converting the written logic into a simple working prototype rather than adding too many new features.
+
+## MVP Definition
+SoilRevive MVP helps a user identify common potted-plant problems (overwatering, underwatering, poor drainage, and nutrient deficiency) through simple symptom questions and provides immediate low-cost home remedies.
