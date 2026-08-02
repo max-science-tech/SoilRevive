@@ -1,0 +1,11 @@
+SOILREVIVE HOME SCREEN
+
+Title: 🌱 SoilRevive
+
+Select Plant:
+- Curry Patta
+- Tulsi
+- Money Plant
+- Other
+
+Button: Check Plant Health
