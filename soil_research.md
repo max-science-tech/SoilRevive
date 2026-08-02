@@ -54,3 +54,24 @@
 - Tolerates slightly dry soil better than wet soil
 - Yellow lower leaves often suggest overwatering
 - Brown crispy tips may suggest underwatering or low humidity
+
+## Soil Indicators
+
+### Healthy Soil
+- Color: dark brown
+- Smell: earthy and fresh
+- Texture: crumbly
+- Drainage: water drains within 5–30 seconds
+
+### Possible Overwatered Soil
+- Color: very dark and sticky
+- Smell: sour or musty
+- Texture: heavy and compact
+- Drainage: water remains on the surface for more than 1 minute
+
+### Possible Underwatered Soil
+- Color: pale and dusty
+- Smell: little or no smell
+- Texture: hard and dry
+- Drainage: water runs down the sides without soaking in properly
+
