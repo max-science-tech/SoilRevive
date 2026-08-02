@@ -21,3 +21,5 @@
 - Added soil health research notes
 - Added research backlog for future investigation
 - Added the first diagnosis engine rules for SoilRevive
+- Added Soil Health Score calculation system
+- Added sample diagnosis test cases connecting symptoms, diagnosis, score, and remedies
