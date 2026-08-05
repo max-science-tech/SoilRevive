@@ -31,3 +31,8 @@
 - Added wireframe blueprint for the MVP screens
 - Added complete Phase 1 MVP summary consolidating the entire SoilRevive foundation
 - Added Thunkable MVP implementation plan connecting the documentation to the future app prototype
+
+## 5 August 2026
+- Removed outdated Thunkable implementation plan
+- Added MIT App Inventor MVP plan
+- Built the first working MIT App Inventor diagnosis blocks for Tulsi and Curry Patta
