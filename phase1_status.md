@@ -27,6 +27,10 @@
 
 **Phase 1 Completion: ~70%**
 
+- Removed outdated Thunkable implementation plan
+- Added MIT App Inventor MVP plan
+- Built the first working MIT App Inventor diagnosis blocks for Tulsi and Curry Patta
+
 ### Notes
 
 The project currently has a strong documentation and research foundation. The next focus should be converting the written logic into a simple working prototype rather than adding too many new features.
