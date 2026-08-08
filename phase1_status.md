@@ -1,79 +1,141 @@
-## 🌱 SoilRevive Phase 1 Status
+# 🌱 SoilRevive — Phase 1 Status
 
-### Completed
+## Current Phase
 
-* Project vision and README
-* Feature roadmap
-* Progress tracking system
-* Home screen planning
-* Symptom questionnaire
-* Emergency remedy database
-* Soil health research notes
+### 🌱 Phase 1 — Foundation + Working Prototype
+
+**Status:** In Progress
+
+---
+
+## ✅ Completed
+
+### 📚 Research & Planning
+
+* SoilRevive vision and long-term roadmap
+* MVP concept definition
+* Soil research notes
+* Emergency remedies database
 * Research backlog
-* Diagnosis engine rules
+* Basic diagnosis logic
 
-### Current Phase
+### 📁 GitHub & Documentation
 
-**Phase 1 — Foundation (MVP Planning)**
+* Repository created and organized
+* README added
+* Progress tracking system added
+* Architecture document added
+* UI flow document added
+* Wireframe blueprint added
+* Sample diagnosis cases added
+* User simulation added
+* Phase 1 MVP summary added
+* MIT App Inventor implementation plan added
 
-### Next Tasks
+### 🧠 Diagnosis System
 
-* Design Soil Health Score system
-* Create sample diagnosis scenarios
-* Build a simple visual prototype
-* Test the diagnosis rules on real plants
+* Rule-based diagnosis engine created
+* Overwatering detection logic added
+* Underwatering and drainage research documented
+* Soil Health Score categories designed
 
-### Overall Progress
+### 📱 MIT App Inventor Prototype
 
-**Phase 1 Completion: ~70%**
+* Home screen created
+* PlantNameBox working
+* CheckSoilHealthButton working
+* ResultLabel working
+* DoctorResultLabel added
+* ScoreLabel added
+* YellowLeavesCheckBox added
+* WetSoilCheckBox added
 
-- Removed outdated Thunkable implementation plan
-- Added MIT App Inventor MVP plan
-- Built the first working MIT App Inventor diagnosis blocks for Tulsi and Curry Patta
+### 🌿 Supported Plants
 
-### Notes
+* Tulsi
+* Curry Patta
+* Money Plant
 
-The project currently has a strong documentation and research foundation. The next focus should be converting the written logic into a simple working prototype rather than adding too many new features.
+### 🩺 Plant Doctor
 
-## MVP Definition
-SoilRevive MVP helps a user identify common potted-plant problems (overwatering, underwatering, poor drainage, and nutrient deficiency) through simple symptom questions and provides immediate low-cost home remedies.
+* Symptom-based diagnosis implemented
+* Overwatering detection for Curry Patta
+* Overwatering detection for Tulsi
+* Overwatering detection for Money Plant
+* IF / ELSE IF / ELSE structure fixed and tested successfully
 
-## 5 August 2026 — Phase 1 Status Update
+---
 
-### 🌱 Current Phase
-**Foundation + First Working Prototype**
+## 🚧 Remaining Phase 1 Tasks
 
-### ✅ Completed
-- Project vision and README
-- Feature roadmap
-- Soil research notes
-- Emergency remedies database
-- Diagnosis engine rules
-- Soil Health Score system
-- Sample diagnosis cases
-- UI flow
-- Wireframe blueprint
-- Prototype screen mockup
-- User simulation flow
-- MVP summary document
-- MIT App Inventor MVP plan
+### 📱 Prototype Improvements
 
-### 📱 MIT App Inventor Progress
-- Home screen created
-- PlantNameBox working
-- CheckSoilHealthButton working
-- ResultLabel updates dynamically
-- Tulsi diagnosis implemented
-- Curry Patta diagnosis implemented
+* Replace PlantNameBox with a Spinner (dropdown)
+* Add additional symptoms:
 
-### 🚧 Next Tasks
-- Add Money Plant diagnosis
-- Add Soil Health Score label
-- Add symptom checkboxes
-- Connect yellow leaves + wet soil to overwatering detection
-- Test all three plant cases
+  * Drooping leaves
+  * Fungus visible
+  * Soil very dry
+* Add a reset / clear button
+* Improve label formatting for mobile screens
 
-### 📊 Phase 1 Completion Estimate
-**Documentation:** 95%
-**Prototype:** 35%
-**Overall Phase 1:** ~75% complete
+### 🧪 Testing
+
+* Test all supported plant combinations
+* Test incorrect or empty input handling
+* Verify score updates for every diagnosis
+
+### 🌱 Future Enhancements
+
+* Dynamic score calculation based on symptoms
+* Recovery tracker
+* Plant history storage
+* Photo-based diagnosis (future phase)
+
+---
+
+## 📊 Phase 1 Completion Estimate
+
+| Area                       | Completion        |
+| -------------------------- | ----------------- |
+| Research & Documentation   | **100%**          |
+| Diagnosis Engine           | **90%**           |
+| Soil Health Score Design   | **90%**           |
+| MIT App Inventor Prototype | **70%**           |
+| Plant Doctor Feature       | **85%**           |
+| Overall Phase 1            | **~85% Complete** |
+
+---
+
+## 🏁 Current MVP Capabilities
+
+A user can:
+
+1. Enter a plant name
+2. Press **Check Soil Health** to receive general care advice
+3. Select symptoms using checkboxes
+4. Press **Plant Doctor** to receive:
+
+   * A possible diagnosis
+   * A short explanation
+   * A Soil Health Score
+
+---
+
+## 📅 Latest Update
+
+### 8 August 2026 — Plant Doctor Milestone
+
+* Added symptom checkboxes
+* Added DoctorResultLabel
+* Added Soil Health Score output
+* Implemented Plant Doctor logic for all three plants
+* Successfully tested the working symptom-based diagnosis feature
+
+---
+
+## 🎯 Next Milestone
+
+**Phase 1 Goal:** Complete a polished MIT App Inventor MVP with dropdown-based plant selection, multiple symptom inputs, and reliable diagnosis + score output for all supported plants.
+
+
