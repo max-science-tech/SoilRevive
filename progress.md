@@ -59,3 +59,20 @@
 * Learned `if / elif / else`
 * Practiced loops
 * Practiced lists
+
+8 August 2026
+Plant Doctor Upgrade
+Added YellowLeavesCheckBox
+Added WetSoilCheckBox
+Added DoctorResultLabel
+Added ScoreLabel
+Implemented symptom-based Plant Doctor logic
+Added overwatering diagnosis for Curry Patta
+Added overwatering diagnosis for Tulsi
+Added overwatering diagnosis for Money Plant
+Fixed the IF / ELSE IF / ELSE block structure
+Successfully tested the Plant Doctor feature with symptom inputs
+Project Cleanup
+Removed the outdated Thunkable implementation plan
+Added the MIT App Inventor implementation plan
+Updated Phase 1 progress and project structure
